@@ -13,6 +13,8 @@
   </div>
 </div>
 
+---
+
 <br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RosieBaroni&show_icons=true&theme=panda&include_all_commits=true&count_private=true&icon_color=2FC18C&title_color=19f9d899&bg_color=31353a"/>
 
