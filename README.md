@@ -14,7 +14,7 @@
 </div>
 
 <br>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RosieBaroni&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RosieBaroni&show_icons=true&theme=panda&include_all_commits=true&count_private=true&icon_color=2FC18C&title_color=19f9d899&bg_color=31353a"/>
 
 ---
 
@@ -31,8 +31,15 @@
 
 ---
 
-<div> 
-  <a href="https://www.lhttps://www.linkedin.com/in/rosieli-baroni/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-        badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href = "mailto: rosi.baroni@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- </div>
-  
+### **Contato:**
+
+<div>
+  <a href="https://www.linkedin.com/in/rosieli-baroni/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto: rosi.baroni@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+<br />
+
+
+⭐️ Baseado em [Thalles Carneiro](https://github.com/thalles-carneiro) e [Rafaella Ballerini](https://github.com/rafaballerini) 
+
