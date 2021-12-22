@@ -15,7 +15,7 @@
 
 ---
 
-<div align="center">
+<div align="flex" justify-content="space-between">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RosieBaroni&show_icons=true&theme=panda&include_all_commits=true&count_private=true&icon_color=2FC18C&title_color=19f9d899&bg_color=31353a"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosieBaroni&layout=compact&langs_count=7&theme=panda"/>
 </div>
