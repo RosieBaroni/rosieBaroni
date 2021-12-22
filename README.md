@@ -4,21 +4,20 @@
 
 ### **Sobre mim:**
 
-<div align="center">
-  <div align="left" style="display: inline_block">
+<div align="left">
+  <ul style="list-style: none;">
     <li> 🏡  Araraquara - SP </li>
     <li> 📚  Atualmente estudo Desenvolvimento Web na <a href="https://betrybe.com">Trybe</a></li>
     <li> 🌱  Meus hobbies são séries, bike e filmes</li>
     <li> 💬  Pergunte-me sobre qualquer coisa, adoro ajudar pessoas</li>
-  </div>
+  <ul/>
 </div>
 
 ---
 
-<div style="display: inline_block">
+<div>
   <a href="https://github.com/RosieBaroni">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RosieBaroni&show_icons=true&theme=panda&include_all_commits=true&count_private=true&icon_color=2FC18C&title_color=19f9d899&bg_color=31353a"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosieBaroni&layout=compact&langs_count=7&theme=panda"/>
   <a/>
 </div>
 
