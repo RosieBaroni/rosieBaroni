@@ -5,7 +5,7 @@
 ### **Sobre mim:**
 
 <div align="left">
-  <ul style="list-style: none;">
+  <ul>
     <li> 🏡  Araraquara - SP </li>
     <li> 📚  Atualmente estudo Desenvolvimento Web na <a href="https://betrybe.com">Trybe</a></li>
     <li> 🌱  Meus hobbies são séries, bike e filmes</li>
