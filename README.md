@@ -9,7 +9,6 @@
     <li> 🏡  Araraquara - SP </li>
     <li> 📚  Atualmente estudo Desenvolvimento Web na <a href="https://betrybe.com">Trybe</a></li>
     <li> 🌱  Meus hobbies são séries, bike e filmes</li>
-    <li> 💬  Pergunte-me sobre qualquer coisa, adoro ajudar pessoas</li>
   <ul/>
 </div>
 
