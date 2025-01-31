@@ -7,7 +7,7 @@
 <div align="left">
   <ul>
     <li> 🏡  Araraquara - SP </li>
-    <li> 📚  Atualmente Frontend Engineer II na <a href="https://betrybe.com">XP Inc.</a></li>
+    <li> 📚  Atualmente Frontend Engineer II na XP Inc.
     <li> 🌱  Meus hobbies são séries, bike e filmes</li>
   <ul/>
 </div>
